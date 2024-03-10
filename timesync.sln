@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timesync.Server", "timesync.Server\timesync.Server.csproj", "{B939155B-46CC-4292-A6BD-DFD3B7511996}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "timesync.client", "timesync.client\timesync.client.esproj", "{A66D0D8F-816D-4B8D-AAC1-3D036D83351F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B939155B-46CC-4292-A6BD-DFD3B7511996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B939155B-46CC-4292-A6BD-DFD3B7511996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B939155B-46CC-4292-A6BD-DFD3B7511996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B939155B-46CC-4292-A6BD-DFD3B7511996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66D0D8F-816D-4B8D-AAC1-3D036D83351F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66D0D8F-816D-4B8D-AAC1-3D036D83351F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66D0D8F-816D-4B8D-AAC1-3D036D83351F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A66D0D8F-816D-4B8D-AAC1-3D036D83351F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66D0D8F-816D-4B8D-AAC1-3D036D83351F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66D0D8F-816D-4B8D-AAC1-3D036D83351F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116833FE-770C-400A-8108-405F4FC0380B}
+	EndGlobalSection
+EndGlobal
